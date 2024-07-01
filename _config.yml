@@ -23,7 +23,7 @@ email: oioihoii@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   这里是李卓的笔记，欢迎大家来访问，如果发现错误，及时提交PR修复问题将使颜值增加！
 domain: ayinluya.github.io 
-baseurl: "/lizhuo.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/knowledge-notes" # the subpath of your site, e.g. /blog
 url: "https://ayinluya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
